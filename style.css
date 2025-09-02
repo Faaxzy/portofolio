@@ -141,4 +141,10 @@
     background: #111;
     color: #fff;
   }
+button{
+  background-color: blue;
+  padding: 8px;
+  text-align: center;
+  width: 280px;
+}
   
